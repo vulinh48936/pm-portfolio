@@ -1,0 +1,44 @@
+# Portfolio Construction: two containers, web (nginx + React) and api (FastAPI).
+#
+#   cp deploy.env.example deploy.env     # fill in CCP, Data Platform and LLM URLs
+#   docker compose up -d --build
+#   open http://<host>:8080
+#
+# On first start the volume is empty: open the Operations tab and run a full history sync.
+
+services:
+  api:
+    build:
+      context: .                     # repo root: the Dockerfile needs backend/ and weight.json
+      dockerfile: backend/Dockerfile
+    image: portfolio-construction-api:latest
+    restart: unless-stopped
+    env_file: [deploy.env]
+    environment:
+      # Data lives on the volume, never in the image.
+      DATA_DIR: /data/market
+      WEIGHT_JSON: /data/weight.json
+      DATABASE_URL: sqlite:////data/pm_lab.db
+      # The browser reaches the API through nginx, same origin, so CORS stays narrow.
+      CORS_ORIGINS: http://localhost:8080
+    volumes:
+      - pc-data:/data
+    # Not published: only nginx inside the compose network talks to it.
+    expose: ["8000"]
+
+  web:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    image: portfolio-construction-web:latest
+    restart: unless-stopped
+    environment:
+      API_UPSTREAM: http://api:8000
+    ports:
+      - "8080:8080"
+    depends_on:
+      api:
+        condition: service_healthy
+
+volumes:
+  pc-data:                            # price snapshot, weight.json and the database

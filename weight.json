@@ -1,0 +1,2043 @@
+{
+  "source": "FTSE_Vietnam_GEIS_Sept2026.xlsx",
+  "note": "weight_pct la phan tram (vd 29.20 = 29.20%). Top-20 by investable MC, pro-rata weighting. Moi period la mot ky quarterly.",
+  "periods": [
+    {
+      "effective_date": "2021-03-01",
+      "period": "2021-03",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VNM",
+          "weight_pct": 23.1503
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 13.9581
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 9.3386
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 7.1408
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 6.0697
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 5.8564
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 4.3704
+        },
+        {
+          "ticker": "SAB",
+          "weight_pct": 3.843
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 3.8353
+        },
+        {
+          "ticker": "PDR",
+          "weight_pct": 3.2357
+        },
+        {
+          "ticker": "BVH",
+          "weight_pct": 3.0326
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 2.3667
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 2.1678
+        },
+        {
+          "ticker": "KDC",
+          "weight_pct": 2.093
+        },
+        {
+          "ticker": "STB",
+          "weight_pct": 1.7972
+        },
+        {
+          "ticker": "HSG",
+          "weight_pct": 1.6825
+        },
+        {
+          "ticker": "APH",
+          "weight_pct": 1.6166
+        },
+        {
+          "ticker": "KBC",
+          "weight_pct": 1.574
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 1.4985
+        },
+        {
+          "ticker": "GEX",
+          "weight_pct": 1.3729
+        }
+      ]
+    },
+    {
+      "effective_date": "2021-06-01",
+      "period": "2021-06",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VHM",
+          "weight_pct": 14.56
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 14.4979
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 11.8261
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 11.3789
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 11.1197
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 5.5578
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 4.1766
+        },
+        {
+          "ticker": "PDR",
+          "weight_pct": 3.716
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.912
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 2.8731
+        },
+        {
+          "ticker": "SAB",
+          "weight_pct": 2.4641
+        },
+        {
+          "ticker": "STB",
+          "weight_pct": 2.1329
+        },
+        {
+          "ticker": "BVH",
+          "weight_pct": 2.08
+        },
+        {
+          "ticker": "HSG",
+          "weight_pct": 1.7776
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 1.682
+        },
+        {
+          "ticker": "VCG",
+          "weight_pct": 1.6011
+        },
+        {
+          "ticker": "GEX",
+          "weight_pct": 1.5329
+        },
+        {
+          "ticker": "KDC",
+          "weight_pct": 1.4607
+        },
+        {
+          "ticker": "APH",
+          "weight_pct": 1.3276
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 1.3231
+        }
+      ]
+    },
+    {
+      "effective_date": "2021-09-01",
+      "period": "2021-09",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VHM",
+          "weight_pct": 16.0394
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 14.7811
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 13.69
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 11.3232
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 9.1699
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 4.5985
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 4.4044
+        },
+        {
+          "ticker": "PDR",
+          "weight_pct": 3.1284
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 3.1271
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.657
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 2.2136
+        },
+        {
+          "ticker": "SAB",
+          "weight_pct": 2.1712
+        },
+        {
+          "ticker": "BVH",
+          "weight_pct": 2.0139
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 1.7886
+        },
+        {
+          "ticker": "HSG",
+          "weight_pct": 1.7844
+        },
+        {
+          "ticker": "KDC",
+          "weight_pct": 1.5536
+        },
+        {
+          "ticker": "STB",
+          "weight_pct": 1.4387
+        },
+        {
+          "ticker": "GEX",
+          "weight_pct": 1.4304
+        },
+        {
+          "ticker": "VCG",
+          "weight_pct": 1.3567
+        },
+        {
+          "ticker": "KBC",
+          "weight_pct": 1.33
+        }
+      ]
+    },
+    {
+      "effective_date": "2021-12-01",
+      "period": "2021-12",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "MSN",
+          "weight_pct": 15.9566
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 15.1216
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 11.8841
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 10.054
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 9.8547
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 5.8694
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 4.6804
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 3.4444
+        },
+        {
+          "ticker": "PDR",
+          "weight_pct": 3.3059
+        },
+        {
+          "ticker": "GEX",
+          "weight_pct": 2.6919
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.3829
+        },
+        {
+          "ticker": "KBC",
+          "weight_pct": 2.1618
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 2.0908
+        },
+        {
+          "ticker": "SAB",
+          "weight_pct": 1.8871
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 1.7698
+        },
+        {
+          "ticker": "BVH",
+          "weight_pct": 1.7562
+        },
+        {
+          "ticker": "VCG",
+          "weight_pct": 1.5851
+        },
+        {
+          "ticker": "HSG",
+          "weight_pct": 1.4209
+        },
+        {
+          "ticker": "STB",
+          "weight_pct": 1.3838
+        },
+        {
+          "ticker": "KDC",
+          "weight_pct": 0.6985
+        }
+      ]
+    },
+    {
+      "effective_date": "2022-03-01",
+      "period": "2022-03",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VIC",
+          "weight_pct": 13.4732
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 13.1719
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 10.4857
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 9.5602
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 9.3299
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 6.1009
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 5.1279
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 4.5986
+        },
+        {
+          "ticker": "DIG",
+          "weight_pct": 3.8228
+        },
+        {
+          "ticker": "PDR",
+          "weight_pct": 2.9294
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 2.6723
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 2.5012
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.5008
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 2.4479
+        },
+        {
+          "ticker": "GEX",
+          "weight_pct": 2.4064
+        },
+        {
+          "ticker": "SAB",
+          "weight_pct": 1.8725
+        },
+        {
+          "ticker": "BVH",
+          "weight_pct": 1.8206
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 1.7689
+        },
+        {
+          "ticker": "DPM",
+          "weight_pct": 1.7594
+        },
+        {
+          "ticker": "VIX",
+          "weight_pct": 1.6495
+        }
+      ]
+    },
+    {
+      "effective_date": "2022-06-01",
+      "period": "2022-06",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VIC",
+          "weight_pct": 15.1418
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 14.0579
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 11.6188
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 11.025
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 8.0385
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 7.0517
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 4.8695
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 4.0421
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 3.247
+        },
+        {
+          "ticker": "PDR",
+          "weight_pct": 2.8691
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.5411
+        },
+        {
+          "ticker": "SAB",
+          "weight_pct": 2.2605
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 2.0465
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 2.0284
+        },
+        {
+          "ticker": "BVH",
+          "weight_pct": 1.9193
+        },
+        {
+          "ticker": "DIG",
+          "weight_pct": 1.8034
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 1.7564
+        },
+        {
+          "ticker": "GEX",
+          "weight_pct": 1.4593
+        },
+        {
+          "ticker": "DPM",
+          "weight_pct": 1.4109
+        },
+        {
+          "ticker": "VIX",
+          "weight_pct": 0.8129
+        }
+      ]
+    },
+    {
+      "effective_date": "2022-09-01",
+      "period": "2022-09",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "NVL",
+          "weight_pct": 12.9741
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 12.0114
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 11.8487
+        },
+        {
+          "ticker": "VIC",
+          "weight_pct": 11.6973
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 7.791
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 6.3949
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 5.0809
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 4.3763
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 3.9944
+        },
+        {
+          "ticker": "PDR",
+          "weight_pct": 2.922
+        },
+        {
+          "ticker": "SAB",
+          "weight_pct": 2.7925
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.605
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 2.2969
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 2.0969
+        },
+        {
+          "ticker": "BVH",
+          "weight_pct": 2.0318
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 1.9176
+        },
+        {
+          "ticker": "DIG",
+          "weight_pct": 1.899
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 1.8761
+        },
+        {
+          "ticker": "VHC",
+          "weight_pct": 1.7829
+        },
+        {
+          "ticker": "KBC",
+          "weight_pct": 1.6105
+        }
+      ]
+    },
+    {
+      "effective_date": "2022-12-01",
+      "period": "2022-12",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VNM",
+          "weight_pct": 15.9643
+        },
+        {
+          "ticker": "VIC",
+          "weight_pct": 14.4521
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 14.1687
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 8.1279
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 7.144
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 6.9939
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 4.4208
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 3.6678
+        },
+        {
+          "ticker": "SAB",
+          "weight_pct": 3.1821
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 3.035
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.9678
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 2.1973
+        },
+        {
+          "ticker": "BVH",
+          "weight_pct": 2.1903
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 2.0821
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 2.008
+        },
+        {
+          "ticker": "VHC",
+          "weight_pct": 1.8281
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 1.8064
+        },
+        {
+          "ticker": "KBC",
+          "weight_pct": 1.5646
+        },
+        {
+          "ticker": "PDR",
+          "weight_pct": 1.1053
+        },
+        {
+          "ticker": "DIG",
+          "weight_pct": 1.0933
+        }
+      ]
+    },
+    {
+      "effective_date": "2023-03-01",
+      "period": "2023-03",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VNM",
+          "weight_pct": 14.7641
+        },
+        {
+          "ticker": "VIC",
+          "weight_pct": 14.7288
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 14.3788
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 8.3566
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 8.0292
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 5.5213
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 4.8239
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 3.8668
+        },
+        {
+          "ticker": "SAB",
+          "weight_pct": 3.3308
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.9843
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 2.8725
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 2.359
+        },
+        {
+          "ticker": "BVH",
+          "weight_pct": 2.0964
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 2.0664
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 1.9196
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 1.7351
+        },
+        {
+          "ticker": "VPI",
+          "weight_pct": 1.7049
+        },
+        {
+          "ticker": "POW",
+          "weight_pct": 1.6742
+        },
+        {
+          "ticker": "KBC",
+          "weight_pct": 1.4692
+        },
+        {
+          "ticker": "VHC",
+          "weight_pct": 1.3181
+        }
+      ]
+    },
+    {
+      "effective_date": "2023-06-01",
+      "period": "2023-06",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VHM",
+          "weight_pct": 14.9283
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 13.697
+        },
+        {
+          "ticker": "VIC",
+          "weight_pct": 13.2772
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 9.3774
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 7.4051
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 5.6275
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 5.3023
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 4.2987
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 3.424
+        },
+        {
+          "ticker": "SAB",
+          "weight_pct": 2.6928
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.6911
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 2.634
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 2.3831
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 2.1793
+        },
+        {
+          "ticker": "BVH",
+          "weight_pct": 1.9047
+        },
+        {
+          "ticker": "KBC",
+          "weight_pct": 1.7434
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 1.6849
+        },
+        {
+          "ticker": "POW",
+          "weight_pct": 1.6522
+        },
+        {
+          "ticker": "VHC",
+          "weight_pct": 1.5598
+        },
+        {
+          "ticker": "VPI",
+          "weight_pct": 1.537
+        }
+      ]
+    },
+    {
+      "effective_date": "2023-09-01",
+      "period": "2023-09",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VNM",
+          "weight_pct": 13.994
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 12.0658
+        },
+        {
+          "ticker": "VIC",
+          "weight_pct": 11.9068
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 9.3968
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 7.3598
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 6.7713
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 5.3788
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 4.6667
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 3.546
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 3.0723
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 2.8936
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.5728
+        },
+        {
+          "ticker": "SAB",
+          "weight_pct": 2.4816
+        },
+        {
+          "ticker": "VIX",
+          "weight_pct": 2.4621
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 2.4473
+        },
+        {
+          "ticker": "VHC",
+          "weight_pct": 1.8489
+        },
+        {
+          "ticker": "BVH",
+          "weight_pct": 1.8135
+        },
+        {
+          "ticker": "EIB",
+          "weight_pct": 1.7887
+        },
+        {
+          "ticker": "KBC",
+          "weight_pct": 1.7845
+        },
+        {
+          "ticker": "PDR",
+          "weight_pct": 1.7487
+        }
+      ]
+    },
+    {
+      "effective_date": "2023-12-01",
+      "period": "2023-12",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VNM",
+          "weight_pct": 12.9013
+        },
+        {
+          "ticker": "VIC",
+          "weight_pct": 11.4751
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 10.3492
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 10.2842
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 8.1778
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 7.0676
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 5.1526
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 5.0035
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 3.9246
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 3.0947
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 2.8061
+        },
+        {
+          "ticker": "VIX",
+          "weight_pct": 2.6647
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 2.5332
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.5066
+        },
+        {
+          "ticker": "EIB",
+          "weight_pct": 2.3424
+        },
+        {
+          "ticker": "PDR",
+          "weight_pct": 2.2285
+        },
+        {
+          "ticker": "SAB",
+          "weight_pct": 2.1822
+        },
+        {
+          "ticker": "VHC",
+          "weight_pct": 1.7975
+        },
+        {
+          "ticker": "KBC",
+          "weight_pct": 1.7861
+        },
+        {
+          "ticker": "BVH",
+          "weight_pct": 1.7222
+        }
+      ]
+    },
+    {
+      "effective_date": "2024-03-01",
+      "period": "2024-03",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VIC",
+          "weight_pct": 14.435
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 12.3261
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 10.5086
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 9.7379
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 7.9192
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 5.7965
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 4.9266
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 3.7227
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 3.7178
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 3.4037
+        },
+        {
+          "ticker": "VIX",
+          "weight_pct": 3.057
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.8911
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 2.6188
+        },
+        {
+          "ticker": "PDR",
+          "weight_pct": 2.3892
+        },
+        {
+          "ticker": "FTS",
+          "weight_pct": 2.2908
+        },
+        {
+          "ticker": "VHC",
+          "weight_pct": 2.1704
+        },
+        {
+          "ticker": "EIB",
+          "weight_pct": 2.1033
+        },
+        {
+          "ticker": "GEX",
+          "weight_pct": 2.0674
+        },
+        {
+          "ticker": "SIP",
+          "weight_pct": 2.0433
+        },
+        {
+          "ticker": "SAB",
+          "weight_pct": 1.8748
+        }
+      ]
+    },
+    {
+      "effective_date": "2024-06-01",
+      "period": "2024-06",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VIC",
+          "weight_pct": 14.0584
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 12.5465
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 11.5046
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 10.9448
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 7.3871
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 5.8639
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 4.4164
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 3.6544
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 3.5794
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 3.0165
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.9704
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 2.9301
+        },
+        {
+          "ticker": "VIX",
+          "weight_pct": 2.5622
+        },
+        {
+          "ticker": "EIB",
+          "weight_pct": 2.3104
+        },
+        {
+          "ticker": "FTS",
+          "weight_pct": 2.2053
+        },
+        {
+          "ticker": "SAB",
+          "weight_pct": 2.0835
+        },
+        {
+          "ticker": "VHC",
+          "weight_pct": 2.0392
+        },
+        {
+          "ticker": "GEX",
+          "weight_pct": 2.0127
+        },
+        {
+          "ticker": "SIP",
+          "weight_pct": 2.0003
+        },
+        {
+          "ticker": "PDR",
+          "weight_pct": 1.9139
+        }
+      ]
+    },
+    {
+      "effective_date": "2024-09-01",
+      "period": "2024-09",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VIC",
+          "weight_pct": 13.1798
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 12.3487
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 11.4421
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 10.7267
+        },
+        {
+          "ticker": "VCB",
+          "weight_pct": 8.1622
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 5.754
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 5.6968
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 4.2083
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 3.2409
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 3.1359
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.7365
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 2.6047
+        },
+        {
+          "ticker": "FTS",
+          "weight_pct": 2.3434
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 2.2855
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 2.2507
+        },
+        {
+          "ticker": "EIB",
+          "weight_pct": 2.1529
+        },
+        {
+          "ticker": "PDR",
+          "weight_pct": 2.0165
+        },
+        {
+          "ticker": "VHC",
+          "weight_pct": 1.9355
+        },
+        {
+          "ticker": "VPI",
+          "weight_pct": 1.9179
+        },
+        {
+          "ticker": "GEX",
+          "weight_pct": 1.861
+        }
+      ]
+    },
+    {
+      "effective_date": "2024-12-01",
+      "period": "2024-12",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VIC",
+          "weight_pct": 13.1352
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 11.5287
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 11.4881
+        },
+        {
+          "ticker": "VCB",
+          "weight_pct": 8.8192
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 8.5996
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 7.0345
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 5.9621
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 4.411
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 3.5892
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 3.3909
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.9601
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 2.5213
+        },
+        {
+          "ticker": "EIB",
+          "weight_pct": 2.4478
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 2.2544
+        },
+        {
+          "ticker": "FTS",
+          "weight_pct": 2.2311
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 2.1976
+        },
+        {
+          "ticker": "VHC",
+          "weight_pct": 1.9481
+        },
+        {
+          "ticker": "PDR",
+          "weight_pct": 1.8937
+        },
+        {
+          "ticker": "GEX",
+          "weight_pct": 1.7959
+        },
+        {
+          "ticker": "VPI",
+          "weight_pct": 1.7912
+        }
+      ]
+    },
+    {
+      "effective_date": "2025-03-01",
+      "period": "2025-03",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VIC",
+          "weight_pct": 15.6828
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 11.5048
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 9.7908
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 9.1985
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 6.9434
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 5.8607
+        },
+        {
+          "ticker": "VCB",
+          "weight_pct": 5.3814
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 4.938
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 4.0067
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 3.6394
+        },
+        {
+          "ticker": "VIX",
+          "weight_pct": 3.3784
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 2.8082
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.7647
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 2.6115
+        },
+        {
+          "ticker": "FTS",
+          "weight_pct": 2.2431
+        },
+        {
+          "ticker": "EIB",
+          "weight_pct": 1.9674
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 1.8654
+        },
+        {
+          "ticker": "BVH",
+          "weight_pct": 1.8296
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 1.8226
+        },
+        {
+          "ticker": "GEX",
+          "weight_pct": 1.7625
+        }
+      ]
+    },
+    {
+      "effective_date": "2025-06-01",
+      "period": "2025-06",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VIC",
+          "weight_pct": 21.7003
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 14.4401
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 7.3907
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 6.6752
+        },
+        {
+          "ticker": "VCB",
+          "weight_pct": 6.5177
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 5.5006
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 4.8451
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 4.6978
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 3.4346
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 3.1627
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 3.0913
+        },
+        {
+          "ticker": "VIX",
+          "weight_pct": 2.8682
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 2.4634
+        },
+        {
+          "ticker": "GEX",
+          "weight_pct": 2.3934
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 2.2867
+        },
+        {
+          "ticker": "NVL",
+          "weight_pct": 2.0743
+        },
+        {
+          "ticker": "EIB",
+          "weight_pct": 1.8432
+        },
+        {
+          "ticker": "FTS",
+          "weight_pct": 1.6365
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 1.4952
+        },
+        {
+          "ticker": "BVH",
+          "weight_pct": 1.4831
+        }
+      ]
+    },
+    {
+      "effective_date": "2025-09-01",
+      "period": "2025-09",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VIC",
+          "weight_pct": 23.392
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 13.1855
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 7.6256
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 7.065
+        },
+        {
+          "ticker": "VIX",
+          "weight_pct": 5.7027
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 5.2485
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 5.2031
+        },
+        {
+          "ticker": "VCB",
+          "weight_pct": 5.1224
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 4.1571
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 2.8631
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.816
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 2.7235
+        },
+        {
+          "ticker": "GEX",
+          "weight_pct": 2.4984
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 2.3091
+        },
+        {
+          "ticker": "FPT",
+          "weight_pct": 2.2882
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 1.9001
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 1.5029
+        },
+        {
+          "ticker": "STB",
+          "weight_pct": 1.4848
+        },
+        {
+          "ticker": "KBC",
+          "weight_pct": 1.483
+        },
+        {
+          "ticker": "EIB",
+          "weight_pct": 1.429
+        }
+      ]
+    },
+    {
+      "effective_date": "2025-12-01",
+      "period": "2025-12",
+      "num_stocks": 20,
+      "constituents": [
+        {
+          "ticker": "VIC",
+          "weight_pct": 37.4535
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 13.1051
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 5.7299
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 5.5447
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 4.3815
+        },
+        {
+          "ticker": "VCB",
+          "weight_pct": 4.129
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 4.0802
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 3.4103
+        },
+        {
+          "ticker": "VIX",
+          "weight_pct": 3.0301
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 2.6911
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 2.4724
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 2.0478
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 1.9115
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 1.8955
+        },
+        {
+          "ticker": "STB",
+          "weight_pct": 1.5977
+        },
+        {
+          "ticker": "GEX",
+          "weight_pct": 1.5796
+        },
+        {
+          "ticker": "FPT",
+          "weight_pct": 1.5662
+        },
+        {
+          "ticker": "KBC",
+          "weight_pct": 1.2522
+        },
+        {
+          "ticker": "DGC",
+          "weight_pct": 1.0762
+        },
+        {
+          "ticker": "EIB",
+          "weight_pct": 1.0455
+        }
+      ]
+    },
+    {
+      "effective_date": "2026-03-01",
+      "period": "2026-03",
+      "num_stocks": 23,
+      "constituents": [
+        {
+          "ticker": "VIC",
+          "weight_pct": 26.1379
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 9.5439
+        },
+        {
+          "ticker": "TCX",
+          "weight_pct": 9.0766
+        },
+        {
+          "ticker": "VCK",
+          "weight_pct": 6.6915
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 4.7666
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 4.7431
+        },
+        {
+          "ticker": "VPX",
+          "weight_pct": 4.4734
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 4.387
+        },
+        {
+          "ticker": "VCB",
+          "weight_pct": 3.9876
+        },
+        {
+          "ticker": "VIX",
+          "weight_pct": 3.2009
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 3.2006
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 3.187
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 2.0983
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 1.9029
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 1.8497
+        },
+        {
+          "ticker": "STB",
+          "weight_pct": 1.7191
+        },
+        {
+          "ticker": "FPT",
+          "weight_pct": 1.7175
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 1.6257
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 1.4585
+        },
+        {
+          "ticker": "GEX",
+          "weight_pct": 1.232
+        },
+        {
+          "ticker": "HDB",
+          "weight_pct": 1.0
+        },
+        {
+          "ticker": "MSB",
+          "weight_pct": 1.0
+        },
+        {
+          "ticker": "VPB",
+          "weight_pct": 1.0
+        }
+      ]
+    },
+    {
+      "effective_date": "2026-06-01",
+      "period": "2026-06",
+      "num_stocks": 23,
+      "constituents": [
+        {
+          "ticker": "VIC",
+          "weight_pct": 38.2614
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 11.5414
+        },
+        {
+          "ticker": "TCX",
+          "weight_pct": 5.8525
+        },
+        {
+          "ticker": "VCK",
+          "weight_pct": 4.9353
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 3.4393
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 3.3255
+        },
+        {
+          "ticker": "VCB",
+          "weight_pct": 3.1887
+        },
+        {
+          "ticker": "VPX",
+          "weight_pct": 3.1122
+        },
+        {
+          "ticker": "MCH",
+          "weight_pct": 3.0886
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 2.9705
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 2.4344
+        },
+        {
+          "ticker": "VIX",
+          "weight_pct": 2.4277
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 2.3597
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 1.6399
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 1.588
+        },
+        {
+          "ticker": "STB",
+          "weight_pct": 1.5758
+        },
+        {
+          "ticker": "FPT",
+          "weight_pct": 1.5204
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 1.3369
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 1.2083
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 1.1937
+        },
+        {
+          "ticker": "HDB",
+          "weight_pct": 1.0
+        },
+        {
+          "ticker": "MSB",
+          "weight_pct": 1.0
+        },
+        {
+          "ticker": "VPB",
+          "weight_pct": 1.0
+        }
+      ]
+    },
+    {
+      "effective_date": "2026-09-01",
+      "period": "2026-09",
+      "num_stocks": 23,
+      "constituents": [
+        {
+          "ticker": "VIC",
+          "weight_pct": 28.3195
+        },
+        {
+          "ticker": "VHM",
+          "weight_pct": 8.5425
+        },
+        {
+          "ticker": "HPG",
+          "weight_pct": 7.6312
+        },
+        {
+          "ticker": "STB",
+          "weight_pct": 6.1857
+        },
+        {
+          "ticker": "VCB",
+          "weight_pct": 6.0814
+        },
+        {
+          "ticker": "FPT",
+          "weight_pct": 5.0521
+        },
+        {
+          "ticker": "TCX",
+          "weight_pct": 4.7863
+        },
+        {
+          "ticker": "VCK",
+          "weight_pct": 3.7932
+        },
+        {
+          "ticker": "BID",
+          "weight_pct": 3.3752
+        },
+        {
+          "ticker": "SHB",
+          "weight_pct": 3.0373
+        },
+        {
+          "ticker": "SSI",
+          "weight_pct": 2.8776
+        },
+        {
+          "ticker": "VJC",
+          "weight_pct": 2.8604
+        },
+        {
+          "ticker": "MSN",
+          "weight_pct": 2.4614
+        },
+        {
+          "ticker": "VPX",
+          "weight_pct": 2.4068
+        },
+        {
+          "ticker": "MCH",
+          "weight_pct": 2.286
+        },
+        {
+          "ticker": "VNM",
+          "weight_pct": 2.1987
+        },
+        {
+          "ticker": "VIX",
+          "weight_pct": 1.9487
+        },
+        {
+          "ticker": "VRE",
+          "weight_pct": 1.2721
+        },
+        {
+          "ticker": "VCI",
+          "weight_pct": 0.9895
+        },
+        {
+          "ticker": "VND",
+          "weight_pct": 0.8943
+        },
+        {
+          "ticker": "HDB",
+          "weight_pct": 1.0
+        },
+        {
+          "ticker": "MSB",
+          "weight_pct": 1.0
+        },
+        {
+          "ticker": "VPB",
+          "weight_pct": 1.0
+        }
+      ]
+    }
+  ]
+}

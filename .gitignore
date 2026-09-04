@@ -1,0 +1,70 @@
+# This repo holds only what is needed to build and deploy the app:
+#   backend/  frontend/  docs/  weight.json  docker-compose.yml  deploy.env.example
+#   .dockerignore  DEPLOY.md  CLAUDE.md  vps-design-system.md
+# Secrets, data and personal research stay out.
+#
+# NOTE: in .gitignore a # only starts a comment at the beginning of a line. Writing
+# "auth/   # secret" makes a meaningless pattern and the secret still gets committed.
+
+# Secrets: never commit
+deploy.env
+.env
+.env.*
+!.env.example
+backend/.env
+# WhatsApp session: creds.json and sync keys
+auth/
+*.pem
+*.key
+*_credentials.json
+
+# Runtime data: lives on the /data volume, fetched from the Data Platform
+# price snapshot and index files (~40 MB, and it has its own .git)
+portfolio_optim/
+*.db
+*.sqlite3
+*.log
+
+# Personal research and experiments, unrelated to the app
+research/
+test/
+docs/
+wa-client.js
+test_group.js
+/package.json
+/package-lock.json
+
+# Ad-hoc outputs: weight_*.csv/json, contribution_*.csv
+# `weight.json` (the FTSE basket) is kept, see the negation below.
+weight_*.csv
+weight_*.json
+contribution_*.csv
+!weight.json
+
+# Node and build output
+node_modules/
+frontend/dist/
+frontend/.vite/
+*.tsbuildinfo
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Screenshots and attachments
+*.jpg
+*.jpeg
+*.png
+!frontend/public/**
+
+# Tooling and OS
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

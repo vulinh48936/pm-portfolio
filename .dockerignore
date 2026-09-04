@@ -1,0 +1,44 @@
+# The build context is the repo root (the backend Dockerfile needs weight.json), so keep
+# out everything the images do not use, or the context would be hundreds of megabytes.
+#
+# The price snapshot is NOT shipped: it lives on the /data volume and the job fetches it.
+
+# Data and research
+portfolio_optim/
+research/
+test/
+docs/
+auth/
+**/*.csv
+**/*.db
+**/*.log
+
+# Node and build output
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Python
+backend/.venv/
+**/__pycache__/
+**/*.pyc
+
+# Local config and secrets (the container gets its environment from deploy.env)
+deploy.env
+backend/.env
+
+# Images and attachments
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.pdf
+# WhatsApp signal bot at the repo root; unrelated to the app
+wa-client.js
+test_group.js
+weight_*.json
+
+# Tooling
+.git/
+.gitignore
+.claude/

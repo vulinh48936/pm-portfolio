@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Forma DJR Display, loaded if the licensed files are dropped into /public/fonts.
+   Without them the browser falls back to Arial, the guideline's official fallback. */
+@font-face {
+  font-family: 'Forma DJR Display';
+  src: url('/fonts/FormaDJRDisplay-Regular.woff2') format('woff2');
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: 'Forma DJR Display';
+  src: url('/fonts/FormaDJRDisplay-Medium.woff2') format('woff2');
+  font-weight: 500; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: 'Forma DJR Display';
+  src: url('/fonts/FormaDJRDisplay-Bold.woff2') format('woff2');
+  font-weight: 700; font-style: normal; font-display: swap;
+}
+
+@layer base {
+  body {
+    @apply antialiased bg-vps-offwhite text-vps-black font-sans;
+  }
+  h1, h2, h3 { @apply tracking-vps; }
+  input[type='range'] { accent-color: #8229E3; }
+  input[type='checkbox'] { accent-color: #8229E3; }
+}
+
+@layer components {
+  .vps-card { @apply bg-white rounded-vps border border-vps-lavender shadow-sm; }
+  .vps-label { @apply text-[11px] font-medium tracking-vps text-vps-purple uppercase; }
+  .vps-btn { @apply inline-flex items-center justify-center rounded-vps px-4 py-1.5 text-sm font-medium tracking-vps-wide transition-colors disabled:opacity-40 disabled:cursor-not-allowed; }
+  .vps-btn-primary { @apply vps-btn bg-vps-violet text-white hover:bg-vps-bright; }
+  .vps-btn-dark { @apply vps-btn bg-vps-black text-white hover:bg-vps-deep; }
+  .vps-btn-outline { @apply vps-btn border border-vps-violet text-vps-violet bg-white hover:bg-vps-lavender; }
+  .vps-btn-ghost { @apply vps-btn bg-vps-lavender text-vps-deep hover:bg-vps-lilac; }
+  .vps-chip { @apply px-2 py-0.5 rounded-full text-[11px] font-medium tracking-vps; }
+  .vps-input { @apply text-sm border border-vps-gray rounded-vps px-2 py-1 bg-white focus:outline-none focus:border-vps-violet focus:ring-1 focus:ring-vps-violet; }
+  .vps-table th { @apply text-left py-1.5 px-2 text-[11px] font-medium tracking-vps text-vps-purple uppercase border-b border-vps-lavender; }
+  .vps-table td { @apply py-1.5 px-2 border-b border-vps-offwhite; }
+}
